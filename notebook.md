@@ -4,6 +4,7 @@
 * Attended lecture
 * Got Plagiarism Certificate and Filled out the Google Form
 * Attempted to set up futuresystems account (pending approval)
+* Downloaded epub software
 # Week 1 8/24/2018 - 8/30/2018
 * Attended Lecture
 * Wrote Bio in Piazza
