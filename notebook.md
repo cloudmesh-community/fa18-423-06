@@ -1,3 +1,5 @@
+# Week 4 09/14/18 - 09/20/18
+* 
 # Week 3 09/07/18 - 09/13/18
 * Attended lecture
 * Started Basic Research on Technologies Summaries Assignment
