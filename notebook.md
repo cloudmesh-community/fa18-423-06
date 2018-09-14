@@ -1,5 +1,7 @@
 # Week 3 09/07/18 - 09/13/18
-* 
+* Attended lecture
+* Started Basic Research on Technologies Summaries Assignment
+* Accepted Approval on Futuresystems Account
 # Week 2 08/31/18 - 09/06/18
 * Attended lecture
 * Got Plagiarism Certificate and Filled out the Google Form
