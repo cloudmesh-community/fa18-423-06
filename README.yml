@@ -2,7 +2,7 @@
 owner:
   firstname: "Chandler"
   lastname: "Mick"
-  hid: "423 - 06"
+  hid: fa18-423-06
   community: "i423"
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/ibm-bluemix.md
@@ -13,5 +13,5 @@ paper:
 project:
   - title: tbd
   - url: tbd
-  - group: fa18-423-03, fa18-423-05, 
+  - group: fa18-423-03, fa18-423-05
   - code: tbd
