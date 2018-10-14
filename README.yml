@@ -9,9 +9,9 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lmdb-key-value.md
 paper:
   - title: "Big Data Solutions to Accounting Fraud"
-  - url: tbd
+    url: tbd
 project:
   - title: tbd
-  - url: tbd
-  - group: fa18-423-03, fa18-423-05
-  - code: tbd
+    url: tbd
+    group: fa18-423-03, fa18-423-05
+    code: tbd
