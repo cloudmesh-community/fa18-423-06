@@ -7,6 +7,8 @@ owner:
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/ibm-bluemix.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lmdb-key-value.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/puppet.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/oracle.md
 project:
   - title: Automation on Drug Interactions Profiling
     url: tbd
