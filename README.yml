@@ -11,6 +11,6 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/oracle.md
 project:
   - title: Automation on Drug Interactions Profiling
-    url: tbd
+    url: https://github.com/cloudmesh-community/fa18-423-03/tree/master/project
     group: fa18-423-03 fa18-423-05
     code: tbd
