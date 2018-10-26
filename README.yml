@@ -7,12 +7,8 @@ owner:
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/ibm-bluemix.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lmdb-key-value.md
-paper:
-  - title: "Big Data Solutions to Accounting Fraud"
-    keyword: Fraud
-    url: tbd
 project:
-  - title: tbd
+  - title: Automation on Drug Interactions Profiling
     url: tbd
     group: fa18-423-03 fa18-423-05
     code: tbd
