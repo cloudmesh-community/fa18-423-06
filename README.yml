@@ -5,6 +5,7 @@ owner:
   hid: fa18-423-06
   community: "i423"
   semester: fa18
+  profile: https://github.com/chmick
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/ibm-bluemix.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lmdb-key-value.md
