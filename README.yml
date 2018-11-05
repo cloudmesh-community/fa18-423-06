@@ -11,6 +11,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lmdb-key-value.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-bigtable.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/oracle.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/amazon-redshift.md
 project:
   - title: Automation on Drug Interactions Profiling
     url: https://github.com/cloudmesh-community/fa18-423-03/tree/master/project
