@@ -14,6 +14,6 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/amazon-redshift.md
 project:
   - title: Automation on Drug Interactions Profiling
-    url: https://github.com/cloudmesh-community/fa18-423-03/tree/master/project
+    url: https://github.com/cloudmesh-community/fa18-423-03/tree/master/project.md
     group: fa18-423-03 fa18-423-05
     code: tbd
