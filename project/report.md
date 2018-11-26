@@ -1,7 +1,7 @@
 # Automation on Drug Interactions Profiling :hand: fa18-423-06, fa18-423-03, fa18-423-02, fa18-423-05
 
 | Yixing Hu, Kelvin Liuwie, Chandler Mick, Omkar Tamhankar
-| yixihu@gmail.com, kliuwie@gmail.com, chmick@iu.edu
+| yixihu@gmail.com, kliuwie@gmail.com, chmick@iu.edu, otamhank@iu.edu
 | Indiana University
 | hid: fa18-423-02, fa18-423-03, fa18-423-05, fa18-423-06
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
@@ -27,7 +27,7 @@ sets that are provided by the FDA and makes them fit for spreadsheets, such as
 Excel, for more in-depth review of the drug data.
 
 One of the most important issues in the pharmaceutical industry today is
-determining the quality of a drug on the market [CITE from pharmtech].Currently
+determining the quality of a drug on the market [@www-PharmTech]. Currently
 a pharmaceutical company needs only prove in human clinical trials that a drug
 is safe when taken in isolation. However, humans are not basic research subjects
 and are often taking a number of medications. As the state of the healthcare
@@ -43,7 +43,7 @@ they are interacting with.
 The dataset is an Extensible Markup Language (XML) file from the FAERS on the
 FDA's website. FAERS is a collection of reports from doctors, nurses, and
 patients who have reported to the FDA side-effects of using certain commercial
-drugs [CITE FAERS website]. This data is used by the FDA to formulate warnings
+drugs [@www-FAERS-Website]. This data is used by the FDA to formulate warnings
 and regulations against drugs to warn consumers of the potential side effects
 that come about from using pharmaceutical drugs.
 
@@ -90,15 +90,55 @@ queried data can be used by the user to evaluate the specific results that they
 are looking for. This CSV file can be transferred to a spreadsheet for simple 
 data analysis.
 
+## Amazon Web Services EC2 Usage
+
+**Overview:**
+This document explains how to access AWS EC2 and how it was used to run the
+program in the cloud server.
+
+**Setup**
+Go to https://aws.amazon.com/. Click on "Sign In to the Console". If you do not
+already have an account set up, create an account. In the "AWS services" search
+bar, search "EC2" and click on the EC2 option. Under "Create Instance" click
+"Launch Instance". Click the "Select" button next to "Amazon Linux 2 AMI (HVM),
+SSD Volume Type". Click on "Review and Launch" then "Launch". In the drop-down
+menu select "Create a new key pair", type in a key pair name, click "Download
+Key Pair", select the check box below, and click "Launch Instance". In the green
+box at the top of the screen click on Instance ID link, this will open the
+instance.
+
+**Accessing the instance**
+Open command prompt, if using Windows, or Terminal, if using Mac. Type in "ssh
+-i ~/*key-pair-location*   ec2-user@*IPv4 Public IP*". This will connect you
+into the EC2 instance.
+
+**Uploading files into the instance**
+Download Cyberduck 2. Open the application. In the dropdown menu, select "SFTP
+(SSH File Transfer Protocol)". In the Server field, enter the Public DNS. In the
+Username field enter "ec2-user" [@fa18-423-03-cyberduck-ec2]. In the SSH Private
+Key field select "Choose" from the dropdown menu and select your .pem key pair
+file. Click on "Connect". Once connected through Cyberduck, you can simply drag
+and drop files into the instance.
+
+**Disclaimer** 
+Our .xml files were greater than 1 GB in size. AWS EC2's free tier only offers
+up to 1 GB memory therefore we would receive memory errors when running our
+python files on the server.
+
+## Results
+
+
+
 ## Conclusion
 
 
 
-## Bibliography
-
-
-
 ## Work Breakdown
+* Yixing Hu: Microsoft Azure Server Testing
+* Kelvin Liuwie: Parsing and Project Code Writer
+* Chandler Mick: Report Writer, IBM VirtualBox Testing
+* Omkar Tamhankar: AWS Server Testing
+
 
 
 
