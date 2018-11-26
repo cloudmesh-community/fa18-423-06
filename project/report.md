@@ -218,7 +218,17 @@ tested.
 
 ## Conclusion
 
-
+At the beginning of this project, we had a goal to find a way to take the
+massive datasets provided by the FDA and turn them into files that can be easily
+queried by a user for further data analysis. At the same time, we wanted to be
+able to explore the possibility and usefulness of Cloud Servers to run our
+program so it does not have to be limited to being accessed via a local machine.
+While we can firmly say that we have made a program that provides the services
+we set out to create, we can say to a degree of certainty that we have found
+that it can be ran on a cloud server. The two services that we found to be
+favorable were Amazon Web Service's EC2 and Microsoft Azure's Cloud Shell. In
+terms of usability and reliability, we believe that a paid subscription to AWS
+EC2 would be the better of the two.
 
 ## Work Breakdown
 * Yixing Hu: Microsoft Azure Server Testing
