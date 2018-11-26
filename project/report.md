@@ -1,29 +1,11 @@
 # Automation on Drug Interactions Profiling :hand: fa18-423-06, fa18-423-03, fa18-423-02, fa18-423-05
 
-| Chandler Mick
-| chmick@iu.edu
+| Yixing Hu, Kelvin Liuwie, Chandler Mick, Omkar Tamhankar
+| yixihu@gmail.com, kliuwie@gmail.com, chmick@iu.edu
 | Indiana University
-| hid: fa18-423-06
+| hid: fa18-423-02, fa18-423-03, fa18-423-05, fa18-423-06
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
 | code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md)  
-| Kelvin Liuwie
-| kliuwie@gmail.com
-| Indiana University
-| hid: fa18-423-02
-| github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
-| code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md)  
-| Yixing Hu
-| yixihu@gmail.com
-| Indiana University
-| hid: fa18-423-05
-| github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
-| code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md)  
-| Omkar Tamhankar
-| @iu.edu
-| Indiana University
-| hid: fa18-423-03
-| github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
-| code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md)
 
 **:mortar_board: Learning Objectives**
 
