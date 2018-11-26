@@ -4,8 +4,8 @@
 | chmick@iu.edu
 | Indiana University
 | hid: fa18-423-06
-| github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/project-report/project.md)
-| code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/project-code/README.md)
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
+| code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md)
 
 **:mortar_board: Learning Objectives**
 
