@@ -6,21 +6,18 @@
 | hid: fa18-423-06
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
 | code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md)
-
 | Kelvin Liuwie
 | kliuwie@gmail.com
 | Indiana University
 | hid: fa18-423-02
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
 | code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md)
-
 | Yixing Hu
 | yixihu@gmail.com
 | Indiana University
 | hid: fa18-423-05
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md)
 | code: [:cloud:](https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md)
-
 | Omkar Tamhankar
 | @iu.edu
 | Indiana University
