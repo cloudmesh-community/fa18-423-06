@@ -15,5 +15,5 @@ technologies:
 project:
   - title: Automation on Drug Interactions Profiling
     url: https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-report/report.md
-    group: fa18-423-03 fa18-423-05
+    group: fa18-423-03, fa18-423-05, fa18-423-02
     code: https://github.com/cloudmesh-community/fa18-423-03/blob/master/project-code/README.md
