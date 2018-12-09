@@ -25,7 +25,7 @@
 * Decided to do 2 more technology summaries as opposed to a paper
 * Attended lecture
 # Week 9 10/19/18 - 10/25/18
-* Finished technology summary on LMBD
+* Finished technology summary on LMDB
 * Attended lecture
 # Week 8 10/12/18 - 10/18/18
 * Wrote technology summary on IBM BlueMix
