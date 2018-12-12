@@ -5,13 +5,21 @@ owner:
   hid: fa18-423-06
   community: "i423"
   semester: fa18
-  profile: https://github.com/chmick
+  online: No
+ 
+profile:
+  - url: https://github.com/chmick
+  
+notebook:
+  - url: https://github.com/cloudmesh-community/fa18-423-06/blob/master/notebook.md
+
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/ibm-bluemix.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lmdb-key-value.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-bigtable.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/oracle.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/amazon-redshift.md
+
 project:
   - title: Automation on Drug Interactions Profiling
   - keyword: Chameleon Cloud, Microsoft Azure, Amazon Web Services, EC2, Cloud, Drugs Interactions, FAERS, Python, Ubuntu
