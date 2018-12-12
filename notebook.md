@@ -1,6 +1,7 @@
 # Week 16 12/07/18 - 12/09/18
 * Finished the project after a few rough patches
 * Fixed code to make sure that it ran better
+* Finished the entire project!
 # Week 15 11/30/18 - 12/06/18
 * Decided to attempt Chameleon Cloud to perform our objectives
 * Continued to revise and perfect our project report
