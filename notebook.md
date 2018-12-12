@@ -5,6 +5,7 @@
 # Week 15 11/30/18 - 12/06/18
 * Decided to attempt Chameleon Cloud to perform our objectives
 * Continued to revise and perfect our project report
+* Attended office hours, since class was cancelled to ask questions about our final project
 # Week 14 11/23/18 - 11/29/18
 * Met with group to finish final steps of project
 * Decided Oracle VirtualBox was not going to meet the needs of our project
