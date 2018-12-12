@@ -13,7 +13,7 @@
 # Week 13 11/16/18 - 11/22/18
 * Thanksgiving Break
 # Week 12 11/09/18 - 11/15/18
-* Puppet was taken by a grad student after I claimed it, chose another topic
+* Puppet was taken by another student, chose another topic
 * Decided to write 3 extra technology summaries, adding Google BigTable and Amazon Redshift
 * Began Oracle VirtualBox testing for project
 * Missed lecture due to sickness
